@@ -1,1 +1,1 @@
-console.log("Hola mundo parte 2")
+console.log("Esta funcionalidad es importante")
